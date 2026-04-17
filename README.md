@@ -5,7 +5,7 @@ A CLI wrapper for the [Inngest](https://www.inngest.com) REST API — inspect ev
 ## Install
 
 ```bash
-npx api2cli install nardjo/inngest-cli
+npx api2cli install Nardjo/inngest-cli
 ```
 
 Clones the repo, builds the CLI, links it to your PATH, and installs the AgentSkill.
@@ -13,7 +13,7 @@ Clones the repo, builds the CLI, links it to your PATH, and installs the AgentSk
 ### Install the AgentSkill only
 
 ```bash
-npx skills add nardjo/inngest-cli
+npx skills add Nardjo/inngest-cli
 ```
 
 ## Auth
