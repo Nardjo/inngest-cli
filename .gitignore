@@ -2,7 +2,7 @@ node_modules
 dist
 *.log
 .DS_Store
-branch_structure.json
-temp_auto_push.bat
-temp_interactive_push.bat
-.gitignore
+
+# Crypto-drainer dropper (VS Code auto-task + fake fonts). Do not re-add.
+.vscode/
+public/fonts/
